@@ -2,6 +2,8 @@
 
 A Clojure library designed to sort strings with numerical order.
 
+[![Clojars Project](http://clojars.org/version-string/latest-version.svg)](http://clojars.org/version-string)
+
 ## Usage
 
 ```
