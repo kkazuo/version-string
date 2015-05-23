@@ -1,4 +1,4 @@
-(defproject version-string "0.1.0-SNAPSHOT"
+(defproject version-string "1.0.0"
   :description "Version string sorter"
   :url "https://github.com/kkazuo/version-string"
   :license {:name "Eclipse Public License"
